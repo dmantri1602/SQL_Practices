@@ -1,6 +1,5 @@
 # SQL_Practices
 
-# SQL_Practices
 Created a mini healthcare project using SQL scripts like create table, insert, update and stored procedure to perform ETL operation.
 ## Create table scripts
     1. Created transactional tables for member, provider, claims, facility and healthplan which has transactions of last six months.
